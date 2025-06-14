@@ -16,7 +16,7 @@
 - Список популярных встроенных приложений
 
 ### Загрузка и использование
-1. Скачайте последнюю версию из [раздела Releases](https://github.com/your-username/windows-app-remover/releases)
+1. Скачайте последнюю версию из [раздела Releases](https://github.com/MichaelUniHorus/WindowsAppRemover/releases/tag/v1.1.0-exe)
 2. Запустите `WindowsAppRemover.exe`
 3. Используйте программу:
    - ↑/↓ - Навигация по списку
@@ -42,7 +42,7 @@ Ready-to-use EXE utility for removing built-in Windows 10/11 apps with console i
 - List of common built-in apps
 
 ### Download and Usage
-1. Download latest version from [Releases section](https://github.com/your-username/windows-app-remover/releases)
+1. Download latest version from [Releases section](https://github.com/MichaelUniHorus/WindowsAppRemover/releases/tag/v1.1.0-exe)
 2. Run `WindowsAppRemover.exe`
 3. Use the program:
    - ↑/↓ - Navigate the list
@@ -68,7 +68,7 @@ Removing system apps may affect system functionality. Use with caution.
 - 常见内置应用程序列表
 
 ### 下载和使用
-1. 从[发布页面](https://github.com/your-username/windows-app-remover/releases)下载最新版本
+1. 从[发布页面](https://github.com/MichaelUniHorus/WindowsAppRemover/releases/tag/v1.1.0-exe)下载最新版本
 2. 运行 `WindowsAppRemover.exe`
 3. 使用程序:
    - ↑/↓ - 列表导航
