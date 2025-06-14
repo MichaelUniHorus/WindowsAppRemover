@@ -1,0 +1,27 @@
+pyfiglet==1.0.3
+windows-curses==2.4.1
+### Для разработчиков / For developers / 开发者指南
+
+Чтобы собрать EXE-файл:
+
+1. Установите зависимости:
+
+bash
+pip install -r requirements-build.txt
+
+2. Выполните сборку:
+
+bash
+pyinstaller --onefile --console app_remover.py --name WindowsAppRemover
+
+3. В разделе Releases на GitHub прикрепите:
+- Собранный EXE-файл
+- Хеш-суммы файла (SHA256)
+- Подпись (если используете)
+
+4. Добавьте информацию о совместимости:
+```markdown
+### Совместимость / Compatibility / 兼容性
+- Windows 10 (версии 1809 и новее)
+- Windows 11 (все версии)
+- Требуются права администратора
